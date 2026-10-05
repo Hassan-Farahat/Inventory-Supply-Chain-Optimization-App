@@ -28,8 +28,8 @@ An interactive decision-support application built with **Python**, **Gradio**, a
 
 ## 📊 Analytical Methodology & Formulas
 1. **Annual Spend:** $\text{Demand} \times \text{Unit Cost}$
-2. **Economic Order Quantity (EOQ):**
-   $$\text{EOQ} = \sqrt{\frac{2 \times \text{Annual Demand} \times \text{Ordering Cost}}{\text{Holding Cost per Unit}}}$$
+
+2. **Economic Order Quantity (EOQ):** $\text{EOQ} = \sqrt{\frac{2 \times \text{Annual Demand} \times \text{Ordering Cost}}{\text{Holding Cost per Unit}}}$
    
 4. **Reorder Point (ROP):**   $$\text{ROP} = (\text{Daily Demand} \times \text{Lead Time Days}) + \text{Safety Stock}$$
 
