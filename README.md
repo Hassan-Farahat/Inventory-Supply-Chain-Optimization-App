@@ -34,9 +34,6 @@ An interactive decision-support application built with **Python**, **Gradio**, a
 4. **Reorder Point (ROP):**   $$\text{ROP} = (\text{Daily Demand} \times \text{Lead Time Days}) + \text{Safety Stock}$$
 
 ---
-
-## 🛠️ Installation & Local Setup
-
 ## 🛠️ Installation & Local Setup
 
 1. **Clone the repository:**
