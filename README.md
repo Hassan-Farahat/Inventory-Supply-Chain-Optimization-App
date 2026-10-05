@@ -4,11 +4,11 @@ An interactive decision-support application built with **Python**, **Gradio**, a
 
 ## Dashboard Preview
 
-![Inventory Strategy Table](assets/Screenshot%20201.png)
+![Inventory Strategy Table](assets/Screenshot1.png)
 
-![ABC & Reorder Visualizations](assets/Screenshot%20202.png)
+![ABC & Reorder Visualizations](assets/Screenshot2.png)
 
-![Full Dashboard Overview](assets/Screenshot%20203.png)
+![Full Dashboard Overview](assets/Screenshot3.png)
 
 ---
 
